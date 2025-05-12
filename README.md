@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawaskar-shreya&label=Profile%20views&color=0e75b6&style=flat" alt="pawaskar-shreya" /> </p>
 
-- 🔭 I’m currently working on [Claudius in OCaml](https://github.com/claudiusFX/Claudius/issues/55)
+- 🔭 I’m currently working on [Claudius in OCaml](https://github.com/claudiusFX/Claudius/)
 
 - 📫 How to reach me **shreya.pawaskar.work@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZtVS9qdA5uDXMGbVEz_eN6aN8GmEds65/view?usp=sharing](https://drive.google.com/file/d/1ZtVS9qdA5uDXMGbVEz_eN6aN8GmEds65/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a lot into philosophy btw!**
 
