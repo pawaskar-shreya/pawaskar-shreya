@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **shreya.pawaskar.work@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1THBUfcGNn_r-65FjA-ETUKkDKzYx1Pnx/view?usp=sharing)
-
 - ⚡ Fun fact **I'm a lot into philosophy btw!**
 
 <h3 align="left">Connect with me:</h3>
